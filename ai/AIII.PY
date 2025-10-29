@@ -68,3 +68,4 @@ plt.imshow(img_array, cmap='gray')
 plt.title(f"Predicted: {predicted_digit}")
 plt.axis('off')
 plt.show()
+
